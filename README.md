@@ -18,5 +18,9 @@ Cette maquette à été validée par le formateur [Yannick Burky](https://adaflo
 Cette opportunité m'a permis de mettre à jour mes connaissances de Bootstrap, de la version 3 que je connaissais bien, à la version 5 actuelle.
 
 J'ai construit 2 pages : l'accueil et un page contenu. 
- 
+
 J'ai présenté mon travail à mon formateur [Yannick Burky](https://adaflow.ch/a-propos/) qui était très satisfait de mon travail et m'a donné la permission de poster le code sur Github.
+
+Je vous présente deux pages en ligne : 
+- https://n23dev.github.io/Mega-Social-foundation/index.html
+- https://n23dev.github.io/Mega-Social-foundation/page.html
