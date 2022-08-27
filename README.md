@@ -22,5 +22,5 @@ J'ai construit 2 pages : l'accueil et un page contenu.
 J'ai présenté mon travail à mon formateur [Yannick Burky](https://adaflow.ch/a-propos/) qui était très satisfait de mon travail et m'a donné la permission de poster le code sur Github.
 
 Je vous présente deux pages en ligne : 
-- https://n23dev.github.io/Mega-Social-Foundation/index.html
-- https://n23dev.github.io/Mega-Social-Foundation/page.html
+- https://nicolabramaz.github.io/Mega-Social-Foundation/index.html
+- https://nicolabramaz.github.io/Mega-Social-Foundation/page.html
